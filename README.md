@@ -249,7 +249,6 @@ This project builds upon the work of many contributors to the open-source ML com
 Software Engineer | Machine Learning Researcher
 
 GitHub: [@BELYAGOUBIABDELILAH](https://github.com/BELYAGOUBIABDELILAH)  
-LinkedIn: [Abdelilah Belyagoubi](https://www.linkedin.com/in/abdelilah-belyagoubi/)
 
 ---
 
