@@ -1,0 +1,26 @@
+{
+  "13M": {
+    "model_size": "13M",
+    "params": "31M",
+    "final_loss": 0.8448,
+    "perplexity": 2.33,
+    "training_time": 131.5,
+    "gpu_memory_gb": 7.9
+  },
+  "30M": {
+    "model_size": "30M",
+    "params": "77M",
+    "final_loss": 0.803,
+    "perplexity": 2.23,
+    "training_time": 275.8,
+    "gpu_memory_gb": 9.42
+  },
+  "60M": {
+    "model_size": "60M",
+    "params": "163M",
+    "final_loss": 0.8267,
+    "perplexity": 2.29,
+    "training_time": 658.4,
+    "gpu_memory_gb": 11.19
+  }
+}
